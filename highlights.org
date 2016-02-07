@@ -1,0 +1,5 @@
+* Cu core level shifts were measured on a composition spread alloy film as a function of bulk composition
+
+* An anomalous core level shift was observed in the region where the B2 structured alloy forms
+
+* Density functional theory calculations showed the anomalous core level shift was due to the formation of the ordered B2 phase
